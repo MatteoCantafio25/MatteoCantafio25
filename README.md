@@ -42,8 +42,8 @@
 </br>
 
 ## 📧 Contact me:
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=plastic&logo=Gmail&logoColor=white)](mailto:matteo.cantafio25@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/matteo-cantafio-939707303/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matteo.cantafio25@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-cantafio-939707303/)
 </br>
 </div>
 
