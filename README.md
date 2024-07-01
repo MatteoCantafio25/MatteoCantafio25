@@ -5,7 +5,7 @@
     Hi, I'm Matteo Cantafio a Junior Full-stack Web Developer!
 </h1>
 <h3>
-    🚀 Full Stack Web Developer 🌐 | Passionately coding my way through a 6-month journey with over 700 hours of dedication and crafting 60+ projects. 🛠️ | Turning ideas into interactive web experiences. 🎨 | Welcome to my world of creativity and code! Let's build something amazing together. 💻✨
+    🚀 Full Stack Web Developer 🌐 | Passionately coding my way through a 8-month journey with over 860 hours of dedication and crafting 80+ projects. 🛠️ | Turning ideas into interactive web experiences. 🎨 | Welcome to my world of creativity and code! Let's build something amazing together. 💻✨
 </h3>
 </br>
 
@@ -18,6 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&labelColor=black&logo=javascript&logoColor=%23F7DF1E)
 ![SASS](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&labelColor=black&logo=Sass&logoColor=CC6699)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&labelColor=black&logo=PHP&logoColor=777BB4)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&labelColor=black&logo=MySQL&logoColor=4479A1)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&labelColor=black&logo=Git&logoColor=F05032)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&labelColor=black&logo=Bootstrap&logoColor=7952B3)
