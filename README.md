@@ -5,7 +5,7 @@
     Hi, I'm Matteo Cantafio a Junior Full-stack Web Developer!
 </h1>
 <h3>
-    🚀 Full Stack Web Developer 🌐 | Passionately coding my way through a 8-month journey with over 860 hours of dedication and crafting 80+ projects. 🛠️ | Turning ideas into interactive web experiences. 🎨 | Welcome to my world of creativity and code! Let's build something amazing together. 💻✨
+    🚀 Full Stack Web Developer 🌐 | Passionately coding my way through a 8-month journey with over 860 hours of dedication and crafting 70+ projects. 🛠️ | Turning ideas into interactive web experiences. 🎨 | Welcome to my world of creativity and code! Let's build something amazing together. 💻✨
 </h3>
 </br>
 
